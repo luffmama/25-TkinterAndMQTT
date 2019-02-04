@@ -5,3 +5,7 @@
 # Then modify the code so that it receives messages from your
 #    m2_tkinter_as_mqtt_sender.py
 # module and PRINTS them.
+import mqtt_remote_method_calls as com
+import time
+
+
